@@ -4,7 +4,7 @@
 
     <div class="container">
     <div class="row">
-        <div class="col-sm-offset-2 col-sm-8", "col-md-offset-2 col-md-8",  "col-lg-offset-3 col-md-6">
+        <div class="col-sm-offset-2 col-sm-8 col-md-offset-2 col-md-8 col-lg-offset-3 col-md-6">
           
 
     <h1>id= {{ $task->id }} のタスク編集ページ</h1>
